@@ -30,7 +30,7 @@ if(maxcolor == average_color[0]):
 elif(maxcolor == average_color[1]):
     maxcolorText = "緑"
 else:
-    maxcolor == average_color[2]
+    maxcolorText = "青"
 
 print("この写真は「" + maxcolorText + "系」の色が多い")
 
